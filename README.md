@@ -4,6 +4,12 @@
 
 #### Build Setup
 
+月下鹿 桌面应用版
+
+普通用户和管理员用户，用户注册，登陆，找回，点赞，评论，用户发表图片，视频，文章，收藏小说，漫画，影视
+
+使用electron+vue进行开发
+
 ``` bash
 # install dependencies
 npm install
@@ -14,12 +20,6 @@ npm run dev
 # build electron application for production
 npm run build
 
-# 需要安装 
-python 2.7
-Microsoft Visual C++ Build Tools
-
 ```
 
----
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[45a3e22](https://github.com/SimulatedGREG/electron-vue/tree/45a3e224e7bb8fc71909021ccfdcfec0f461f634) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
